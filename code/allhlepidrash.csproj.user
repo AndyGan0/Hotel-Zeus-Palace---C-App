@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Change_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Apartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Apartment\Control_Apartment_Radio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Apartment\Control_Apartment_Temperature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Orders_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Pool\Control_Pool_temperature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Restaurant\Control_Restaurant_Purchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Trojan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Trojan\Control_Trojan_Door.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Trojan\Control_Trojan_Lader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Restaurant\Control_Restaurant_Choice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Apartment\Control_Apartment_Lights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Restaurant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Start_up_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Trojan\Control_Trojan_GPS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Pool\Control_Specific_Pool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Pool\Control_Pool_water_level.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Pool\Control_Pool_sensor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Control_Apartment\Control_Apartment_TV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
