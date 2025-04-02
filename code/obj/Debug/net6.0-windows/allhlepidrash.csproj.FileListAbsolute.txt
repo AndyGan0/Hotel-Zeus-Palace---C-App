@@ -1,0 +1,82 @@
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.exe
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.deps.json
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.runtimeconfig.json
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.dll
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.pdb
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.AssemblyReference.cache
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment_Lights.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment_Radio.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment_Temperature.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment_TV.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Help.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Pool_sensor.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Pool_temperature.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Pool_water_level.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Restaurant.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Restaurant_Choice.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Restaurant_Purchase.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Settings.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Trojan.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Trojan_Door.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Trojan_GPS.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Trojan_Lader.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Login_Form.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Main_Menu.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Properties.Resources.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Start_up_Form.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.GenerateResource.cache
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfoInputs.cache
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfo.cs
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.CoreCompileInputs.cache
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.dll
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\refint\allhlepidrash.dll
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.pdb
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.genruntimeconfig.cache
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\ref\allhlepidrash.dll
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Orders_employee.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Change_Password.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Specific_Pool.resources
+D:\uni\5th semester\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\final project\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Pools.resources
+C:\Users\angan\Desktop\final\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.exe
+C:\Users\angan\Desktop\final\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.deps.json
+C:\Users\angan\Desktop\final\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.runtimeconfig.json
+C:\Users\angan\Desktop\final\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.dll
+C:\Users\angan\Desktop\final\allhlepidrash\bin\Debug\net6.0-windows\allhlepidrash.pdb
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.AssemblyReference.cache
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Change_Password.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment_Lights.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment_Radio.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment_Temperature.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Apartment_TV.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Help.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Orders_employee.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Pools.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Pool_sensor.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Pool_temperature.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Pool_water_level.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Specific_Pool.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Restaurant.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Restaurant_Choice.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Restaurant_Purchase.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Settings.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Trojan.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Trojan_Door.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Trojan_GPS.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Control_Trojan_Lader.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Login_Form.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Main_Menu.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Properties.Resources.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.Start_up_Form.resources
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.GenerateResource.cache
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfoInputs.cache
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.AssemblyInfo.cs
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.csproj.CoreCompileInputs.cache
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.dll
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\refint\allhlepidrash.dll
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.pdb
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\allhlepidrash.genruntimeconfig.cache
+C:\Users\angan\Desktop\final\allhlepidrash\obj\Debug\net6.0-windows\ref\allhlepidrash.dll
