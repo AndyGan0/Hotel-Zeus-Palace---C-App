@@ -3,7 +3,7 @@
 This was a project created during my university course "HUMAN-COMPUTER INTERACTION" <br>
 Language: C# <br><br>
 
-This project contains the User Interface for an application designed for an ancient greek themed hotel.<br>
+This project contains the User Interface for an application designed for an ancient greek-themed hotel.<br>
 <br>
 This app features:<br>
 - 2 roles: Guests and Staff<br>
